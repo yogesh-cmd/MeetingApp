@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871447221476-lqdju088nec7pombikuov5cq2buacubv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871447221476-lqdju088nec7pombikuov5cq2buacubv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>871447221476-3q0v1eokkkbkuo7v5scnnm6ro28bnhtp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm3PyKHJmYOBjKri_RaB5j--1Y6H1zc_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871447221476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sakec.meetingApp</string>
+	<key>PROJECT_ID</key>
+	<string>sakec-meeting-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sakec-meeting-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871447221476:ios:eeae15b14df9c0361c08f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://sakec-meeting-app.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871447221476",
+    "firebase_url": "https://sakec-meeting-app.firebaseio.com",
+    "project_id": "sakec-meeting-app",
+    "storage_bucket": "sakec-meeting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871447221476:android:99deea64db6163fd1c08f1",
+        "android_client_info": {
+          "package_name": "com.sakec.meetingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871447221476-3q0v1eokkkbkuo7v5scnnm6ro28bnhtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakec.meetingApp",
+            "certificate_hash": "4fae6aa11262479dfefafb746c5f9731781517f3"
+          }
+        },
+        {
+          "client_id": "871447221476-k61g3lmog03lfb83s6vfhobod5bjr9ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6Va8WZJvUwiyXPNMNHhf7Zt99B1KHW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871447221476-k61g3lmog03lfb83s6vfhobod5bjr9ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
